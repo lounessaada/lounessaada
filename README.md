@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi i am lounes 
+Data Science student 
+Interested in Data analysis ,vizualisation 
+Currently learning Python,SQL
+Based in Canada
 
 <!--
 **lounessaada/lounessaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
